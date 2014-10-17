@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tri:home|Door43 (tri)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tri|d43-tri repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tri/archive/master.zip|d43-tri.zip]]
+
+**Recent Changes**
+{{changes>ns = tri}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tri|Ethnologue data]]
+
